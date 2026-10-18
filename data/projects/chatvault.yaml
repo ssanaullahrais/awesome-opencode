@@ -1,0 +1,4 @@
+name: ChatVault
+repo: https://github.com/ssanaullahrais/Chat-Vault
+tagline: Read, search, back up and continue your OpenCode chats, and five other tools
+description: Open source Windows app that finds the chats OpenCode, Claude Code, Codex, Cursor, Gemini CLI and Cline keep on your PC. Read and search them across accounts, back them up, and continue any chat in OpenCode through a handoff file that carries the whole conversation.
